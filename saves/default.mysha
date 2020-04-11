@@ -72,7 +72,7 @@
         <title>Рубль</title>
     </currencies>
     <currencies>
-        <isOn>false</isOn>
+        <isOn>true</isOn>
         <base>false</base>
         <code>USD</code>
         <on>true</on>
